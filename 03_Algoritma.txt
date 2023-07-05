@@ -1,0 +1,9 @@
+
+soru3 : Kullanıcıdan alınan 2 tam sayıdan hangisinin büyük olduğunu gösteren algoritmayı giriniz.
+
+1.adım Başla
+2.adım Kullanıcıdan sayi1, sayi2 değerlerini al
+3.adım sayi1<sayi2 ise ekrana "sayi2 büyüktür" yazdır
+4.adım sayi1>sayi2 ise ekrana "sayi1 büyüktür" yazdır
+5.adım sayi1=sayi2 ise ekrana "sayi1 ve sayi2 eşittir" yazdır
+6.adım bitir

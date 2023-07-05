@@ -1,0 +1,8 @@
+
+soru7: Kullanıcıdan bir kenar uzunluğu alınan karenin çevresini ve alanını hesaplayan algoritmayı giriniz
+
+1. adım: Başla
+2. adım: Kullanıcıdan kenarUzunlugu al
+3. adım: kareninCevresi = kenarUzunlugu*4 sonucunu ekrana karenin çevresi olarak yazdır
+4. adım: kareninalanı= kenarUzunlugu*kenarUzunlugu sonucunu ekrana karenin alanı olark yazdır
+5. adım: sonuc

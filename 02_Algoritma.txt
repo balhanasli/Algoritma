@@ -1,0 +1,12 @@
+
+&& ve operatörü   // veya operatörü
+
+soru2: Kullanıcıdan alınan 5 tam sayının ortalamasını yazdıran algoritma
+
+
+1.adım Başla
+2.adım Kullanıcıdan sayi1, sayi2, sayi3, sayi4 ve sayi5 değerlerini al.
+3.adım Girilen sayılardan tamamı tam sayi ise 4. adıma git değil ise 2. adıma git.
+4.adım (Toplam = sayi1+sayi2+sayi3+sayi4+sayi5 ) (Ortalama = Toplam/5) işlemlerini yap
+5.adım Toplam ve Ortalama değerlerini ekrana yazdır.
+6.adım Bitir

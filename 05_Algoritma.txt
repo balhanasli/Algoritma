@@ -1,0 +1,8 @@
+
+soru:5 Kullanıcıdan girilen fiyatı KDV(%18) ekleyerek KDV'li fiyatınıı ekrana yazdıran algoritma
+
+
+1.adım Başla
+2.adım Fiyat gir
+3.adım ekrana Fiyat*1.18 işlem sonucunu yazdır
+5.bitir

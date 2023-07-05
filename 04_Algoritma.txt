@@ -1,0 +1,9 @@
+
+soru:4 Kullanıcıdan alınan 3 sayı arasından en büyüğünü bulduran algoritmayı yazınız.
+
+1.adım Başla
+2.adım Kullanıcıdan sayi1, sayi2, sayi3 değerlerini al
+3.adım eğer sayi1>sayi2 ise 4. adıma git. Aksi halde 5. adıma git
+4.adım eğer sayi1>sayi3 ise ekrana "sayi1 en büyüktür" yazdır. Aksi halde ekrana "sayi3 en büyüktür" yazdır.
+5.adım eğer sayi2>sayi3 ise ekrana "sayi2 en büyüktür" yazdır. Aksi halde ekrana "sayi3 en büyüktür" yazdır.
+6.adım bitir

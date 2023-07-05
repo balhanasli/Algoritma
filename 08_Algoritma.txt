@@ -1,0 +1,8 @@
+
+soru8: Kullanıcıdan alınan tam sayının tek veya çift olduğunu ekrana yazdır
+
+1. adım: Başla
+2. adım: Kullanıcıdan sayi1 sayısını al.
+3. adım: Eğer sayi1 % 2 = 0 ise sayi1 çift olduğunu ekrana yazdır. 
+         Değil ise tek olduğunu ekrana yazdır
+4. adım: bitir
